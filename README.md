@@ -15,7 +15,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 ## The List
 
-| Name                                   | Location | Notes                                   |
+| Name                                   | Location | Notes                                   | Refeeral
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions | New data |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |

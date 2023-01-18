@@ -44,7 +44,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~Credit Suisse~](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC  | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | [~Abnormal Security~](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
-
 | [~~Roblox~~](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
 | [~~Ceridian~~](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/43677) | Remote | Software Developer; 0 Experience Required
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions

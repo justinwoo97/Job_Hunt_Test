@@ -17,6 +17,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 | Name                                   | Location | Notes                                   | Post By             | Referral        | Sponsorship |
 | -------------------------------------- | -------- | --------------------------------------- | --------------------| ----------------| ------------|
+
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions | 
 |[IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
@@ -37,11 +38,9 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e) , [Security](https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321?lever-source=LinkedIn)|
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
-| [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions
-| [~~Neeva~~](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe?lever-source=LinkedInJobs) | Mountain View, CA | Software Engineer, New Grad, 2023 |
+| [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions |
 | [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack)|
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) 
-| [~Broadway Technology~](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |

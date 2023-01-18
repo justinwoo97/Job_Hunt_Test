@@ -17,8 +17,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 | Name                                   | Location | Notes                                   | Post By             | Referral        | Sponsorship |
 | -------------------------------------- | -------- | --------------------------------------- | --------------------| ----------------| ------------ |
-| [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions | 
-| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions | 
+|[IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | NYC; Seattle; SF; Murrah, UT; Remote;... | Several "New Grad, Software Engineer" roles in "Engineering". Some of them may need to start in Jan 23 / ASAP |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
@@ -48,8 +48,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
-| Databricks | Seattle / San Francisco | [Software Engineer - New Grad (2023 Start)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002); <br> [Data Scientist - New Grad (2023 Start)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289909002); <br> [IT Data Engineer New Grad (2023)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6414385002&gh_src=62a881d62); <br> [Salesforce Engineer New Grad (2023)](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6414384002) | 
-| [~Restaurant Brands International~](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew) | Seattle, WA | 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |

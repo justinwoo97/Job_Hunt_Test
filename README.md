@@ -15,8 +15,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 ## The List
 
-| Name                    | Location | Notes                  | Post By             | Referral Contact (name Hyperlink email)    | Sponsorship  | 
-| ----------------------- | -------- | ---------------------- | --------------------| -------------------------------------------| ------------ |
+| Name               | Location | Notes                  | Post By             | Referral Contact (name Hyperlink email)    | Sponsorship  | HC Range |
+| ------------------ | -------- | ---------------------- | --------------------| -------------------------------------------| ------------ | ---------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago  | 	Various Junior Developer Positions |Yes| No| 
 |[IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
